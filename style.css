@@ -5,6 +5,8 @@
     margin-top: 30px;
     margin-left: 600px;
     border: 5px solid #000;
+    box-shadow: 20px 20px 10px #727272;
+    border-radius: 40px;
 }
 .box1{
     background: #d2c29e;
@@ -231,23 +233,26 @@ p{
 .h1{
     width: 20px;
     height: 20px;
-    background: #fff;
+    background: #727272;
     border-radius: 20px;
     position: absolute;
     top: 200px;
     left: 625px;    
-    border: 5px solid #000;
+    border: 3px solid #000;
+    background: linear-gradient(to left, #252525, #fff);
 }
 
 .h2{
     width: 20px;
     height: 20px;
-    background: #fff;
+    background: #727272;
     border-radius: 20px;
     position: absolute;
     top: 685px;
     left: 625px;
-    border: 5px solid #000;
+    border: 3px solid #000;
+    background: linear-gradient(to left, #252525, #fff);
+    
 }
 .lin5{
     position: absolute;
